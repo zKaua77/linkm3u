@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SÃO PAULO" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png" group-title="CANAIS | ABERTOS", GLOBO SÃO PAULO
+http://dfkkh.dtwkaf.xyz:80/live/155846650/817126985/141339
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PERNAMBUCO" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png" group-title="CANAIS | ABERTOS", GLOBO PERNAMBUCO
+http://dfkkh.dtwkaf.xyz:80/live/155846650/817126985/407997
+#EXTINF:-1 tvg-id="" tvg-name="SBT SÃO PAULO" tvg-logo="http://storage4you.net:2095/logoscanais/SBT.png" group-title="CANAIS | ABERTOS", SBT SÃO PAULO
+http://dfkkh.dtwkaf.xyz:80/live/155846650/817126985/141366
+#EXTINF:-1 tvg-id="" tvg-name="SBT PERNAMBUCO" tvg-logo="http://storage4you.net:2095/logoscanais/SBT.png" group-title="CANAIS | ABERTOS", SBT PERNAMBUCO
+http://bit.com.vc:80/live/JosuelArthur/josuel2468/455346
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV SD" tvg-logo="https://files.jpnetwork.com.br/index.php/s/KSGDasiNbf94Sij/download/sportv.png" group-title="CANAIS | SPORTV",SPORTV SD
+http://dfkkh.dtwkaf.xyz:80/live/155846650/817126985/141550
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="http://storage4you.net:2095/logoscanais/GLOOB.png" group-title="CANAIS | INFANTIS", GLOOB
+http://dfkkh.dtwkaf.xyz:80/live/155846650/817126985/141613
+#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves Animado" tvg-logo="http://storage4you.net:2095/logoscanais/DESENHOS-24-HORAS.png" group-title="CANAIS | [24H] DESENHOS",[24H] Chaves Animado
+http://dfkkh.dtwkaf.xyz:80/live/155846650/817126985/2028758
+#EXTINF:-1 tvg-id="" tvg-name="[24H] A Turma da Mônica" tvg-logo="http://storage4you.net:2095/logoscanais/DESENHOS-24-HORAS.png" group-title="CANAIS | [24H] DESENHOS",[24H] A Turma da Mônica
+http://dfkkh.dtwkaf.xyz:80/live/155846650/817126985/2028723
+#EXTINF:-1 tvg-id="" tvg-name="[24H] LADY BUG" tvg-logo="http://storage4you.net:2095/logoscanais/DESENHOS-24-HORAS.png" group-title="CANAIS | [24H] DESENHOS",[24H] As Aventuras de Ladybug
+http://dfkkh.dtwkaf.xyz:80/live/155846650/817126985/2028732
+#EXTINF:-1 tvg-id="" tvg-name="KARATÊ KID (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg" group-title="FILMES | AÇÃO", KARATÊ KID (2010)
+http://dfkkh.dtwkaf.xyz:80/movie/155846650/817126985/3490722
+#EXTINF:-1 tvg-id="" tvg-name="TÔ RYCA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NtGVJWXFuBuYIcpI4UUGEm2Uyh.jpg" group-title="FILMES | COMÉDIA", TÔ RYCA
+http://pfsv.io:80/movie/6705646555/60670/84993.mp4vie/6705646555/60670/84993.mp4993.mp4
